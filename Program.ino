@@ -7,7 +7,6 @@ AF_DCMotor motorM2(2); // Motor M2
 AF_DCMotor motorM3(3); // Motor M3
 AF_DCMotor motorM4(4); // Motor M4
 void setup() {
-  delay(5000);
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
 }
