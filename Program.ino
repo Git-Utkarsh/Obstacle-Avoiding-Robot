@@ -19,7 +19,7 @@ void loop() {
   digitalWrite(trigPin, LOW);
   long duration = pulseIn(echoPin, HIGH);
   float distance_cm = duration / 58.2;
-  if (distance_cm<20){
+  if (distance_cm<15){
     moveBackward();
     delay(700);
     rightTurn();
@@ -36,10 +36,10 @@ void loop() {
 }
 
 void moveForward() {
-  motorM1.setSpeed(150);
-  motorM2.setSpeed(150);
-  motorM3.setSpeed(150);
-  motorM4.setSpeed(150);
+  motorM1.setSpeed(200);
+  motorM2.setSpeed(200);
+  motorM3.setSpeed(200);
+  motorM4.setSpeed(200);
   motorM1.run(FORWARD);
   motorM2.run(FORWARD);
   motorM3.run(FORWARD);
