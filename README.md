@@ -1,5 +1,8 @@
 # Object Avoidance Robot
 
+[![Alt Text](thumbnail_image_url)](code/RobotTest.mp4)
+
+
 ## Description
 
 This Arduino code implements an object avoidance mechanism using an ultrasonic sensor and a four-wheeled robot with individual motors. When an object is detected within 15 cm, the robot performs a predefined sequence: it moves backward, turns right, turns left, and then moves forward. Motor control is facilitated through the AFMotor library, while the distance calculation relies on the pulse duration from the ultrasonic sensor.
