@@ -1,7 +1,6 @@
 # Object Avoidance Robot
 
-[![Alt Text](thumbnail_image_url)](code/RobotTest.mp4)
-
+[Watch the video](code/RobotTest.mp4)
 
 ## Description
 
