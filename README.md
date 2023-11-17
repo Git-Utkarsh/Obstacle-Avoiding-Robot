@@ -30,11 +30,6 @@ The Arduino continuously measures the distance using the ultrasonic sensor. When
 
 Note: Adjustments to motor speeds and delay times can be made in the code to optimize performance for your specific robot.
 
-## Contributors
-
-- [Your Name]
-- [Any other contributors]
-
 Feel free to contribute by forking the repository and submitting pull requests.
 
 ## License
