@@ -1,7 +1,7 @@
 #include <AFMotor.h>
 #include <Wire.h>
-const int trigPin = A2; 
-const int echoPin = A3;
+const int trigPin = A0; 
+const int echoPin = A1;
 AF_DCMotor motorM1(1); 
 AF_DCMotor motorM2(2); 
 AF_DCMotor motorM3(3); 
