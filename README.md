@@ -9,10 +9,13 @@ This Arduino code implements an object avoidance mechanism using an ultrasonic s
 
 - Ultrasonic Sensor
 - AFMotor Library
+- Motor Shield
 - Four DC Motors (M1, M2, M3, M4)
 - Arduino Board
 
 ## Circuit Setup
+
+![circuit](https://github.com/Git-Utkarsh/Obstacle-Avoiding-Robot/assets/84007458/781412bb-f07f-4280-b765-7d485bdd2650)
 
 1. Connect the ultrasonic sensor's trigPin to A2 and echoPin to A3 on the Arduino.
 2. Connect the four DC motors to the motor controller, assigning each to motorM1, motorM2, motorM3, and motorM4.
