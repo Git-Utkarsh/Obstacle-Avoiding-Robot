@@ -1,4 +1,4 @@
-# Object Avoidance Robot
+# Award Winning Obstacle Avoidance Robot
 <img width="540" alt="github" src="https://github.com/Git-Utkarsh/Obstacle-Avoiding-Robot/assets/84007458/7aeda056-1576-4711-8bd8-979557bbe6c9">
 
 ## Description
