@@ -38,7 +38,6 @@ Note: Adjustments to motor speeds and delay times can be made in the code to opt
 Feel free to contribute by forking the repository and submitting pull requests.
 
 
-https://github.com/Git-Utkarsh/Obstacle-Avoiding-Robot/assets/84007458/88f2c774-79d2-4136-abfd-49cb82a730f3
 
 ## License
 
